@@ -7,4 +7,4 @@ As you can see from the screenshots below the you can see that the original code
 #### Original code time
 ![output](Resources/VBA_Challenge_2018_Original.PNG)
 #### Refactored code time
-![output](Resources/VBA_Challenge_2018_.PNG)
+![output2](Resources/VBA_Challenge_2018.PNG)
